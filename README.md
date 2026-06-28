@@ -48,7 +48,7 @@ The platform consists of an API Gateway and 6 independent microservices, each wi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/credit-risk-platform.git
+git clone https://github.com/asdharupur1-boop/CRIP-CREDIT-RISK-AND-INTELLIGENCE-PLATFORM
 cd credit-risk-platform
 ```
 
@@ -262,9 +262,6 @@ redis-cli -h localhost ping
 3. Write tests for new code
 4. Submit a pull request
 
-## 📄 License
-
-[Add your license here]
 
 ## 👥 Team
 
